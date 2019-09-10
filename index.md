@@ -1,3 +1,3 @@
-### Welcome to my site!
+# camperD (aka Damyn)
 
-My name is Damyn Chipman.
+I'd rather be outdoors...
