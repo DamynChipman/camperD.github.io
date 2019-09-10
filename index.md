@@ -1,6 +1,6 @@
 # camperD (aka Damyn)
 
-[!I'd rather be outdoors...](assets/rather_be_outdoors.jpg)
+[I'd rather be outdoors...](assets/rather_be_outdoors.jpeg)
 
 My name is Damyn Chipman. camperD is a nickname I have had for longer than I can remember.
 
